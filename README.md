@@ -1,11 +1,6 @@
-### Hi there 👋
+Good day.
 
-- 🔭 I’m currently working on development of FX trading applications
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on implementation of QUIC protocol to be used by HTTP/3
-- 💬 Ask me about fintech
-- 📫 How to reach me: nodirsid@gmail.com
-- ⚡ Fun fact: dropped out of PhD in Computer Science program
+I currently work on development of trading platforms for FX asset class. My primary tools for problem solving are Java, Python and Bash scripting. I also work as an MLH coach to create safe space for students to discover their hidden skills and talents through hackathons. 
 
 <!--
 **nodirsid/nodirsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
